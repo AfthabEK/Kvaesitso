@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="ml">
+    <string name="menu_share">പങ്കിടുക</string>
+    <string name="menu_share_store_link">%1$s ലിങ്ക്</string>
+    <string name="menu_share_apk_file">പാക്കേജ് ഫയൽ</string>
+    <string name="menu_uninstall">അൺഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="menu_favorites_pin">പ്രിയങ്കരങ്ങളിൽ പിൻ ചെയ്യുക</string>
+    <string name="menu_favorites_unpin">പിൻ നീക്കം ചെയ്യുക</string>
+    <string name="menu_back">തിരികെ പോകുക</string>
+    <string name="menu_app_info">അപ്ലിക്കേഷൻ വിവരങ്ങൾ</string>
+    <string name="menu_launch">തുറക്കുക</string>
+    <string name="menu_customize">കസ്റ്റമൈസ് ചെയ്യുക</string>
+    <string name="menu_open_file">തുറക്കുക</string>
+    <string name="menu_map">മാപ്പിൽ കാണുക</string>
+    <string name="menu_website">വെബ്സൈറ്റ് തുറക്കുക</string>
+    <string name="menu_delete">ഡിലിറ്റ് ചെയ്യുക</string>
+    <string name="menu_remove">നീക്കം ചെയ്യുക</string>
+    <string name="action_undo">മാറ്റം പൂർവ്വസ്ഥിതിയിലാക്കുക</string>
+    <string name="action_import">ഇമ്പോർട്ട് ചെയ്യുക</string>
+    <string name="action_done">പൂർത്തിയാകി</string>
+    <string name="action_more_actions">കൂടുതൽ നടപടികൾ</string>
+    <string name="action_clear">മായ്ക്കുക</string>
+    <string name="action_install">ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="action_quit">പുറത്തിറങ്ങുക</string>
+    <string name="search_bar_placeholder">തിരയുക</string>
+    <string name="menu_contacts_open_externally">കോൺടാക്റ്റ്സ്സ് ആപ്പിൽ തുറക്കുക</string>
+    <string name="menu_calendar_open_externally">കലണ്ടർ ആപ്പിൽ തുറക്കുക</string>
+</resources>
