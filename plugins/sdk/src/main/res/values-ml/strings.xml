@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="ml">
+    <string name="request_permission_message"><b>%1$s</b> <b>%2$s</b> ൽ നിന്ന് ഡാറ്റ ആക്സസ് ചെയ്യാൻ ആഗ്രഹിക്കുന്നു.</string>
+    <string name="request_permission_deny_button">നിരസിക്കുക</string>
+    <string name="request_permission_allow_button">അനുവദിക്കുക</string>
+</resources>
